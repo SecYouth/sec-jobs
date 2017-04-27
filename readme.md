@@ -2,16 +2,16 @@
 
 ## 目录
 
-* [**interview-experience**](interview-experience/) 面经
-* [**examination**](examination/) 笔试真题
+* [**interview-experience**](interview-experience/) 面经 (数量: 2)
+* [**examination**](examination/) 笔试真题 (数量: 2)
 * [**information**](information/) 可靠的消息
 * [**hearsay**](hearsay/) 小道消息(不一定靠谱)
 * [**resource**](resource/) 资源
-* [**recommendation**](recommendation/) 内推人或内推渠道
 * [**evaluation**](evaluation/) 前人的实习/工作经历和评价
 * [**procedure**](procedure/) 实际的招聘流程与官方流程中未写明的细节
 * [**jobs**](jobs/) 招聘和求职信息
 * [**misc**](misc/) 其他
+* [**recommendation.md**](recommendation.md) 内推人或内推渠道, 包括厂商人员 (数量: 7)
 
 ## 租房或合租
 由于这个的信息的实时性非常高, 所以单独开一个文档来记录
