@@ -20,7 +20,7 @@
 
 ## 我也有一些想写的
 
-你可以直接把想添加的内容发在 [issues](https://github.com/SecYouth/all-about-security-jobs/issues) 里(想象成论坛的帖子), 我们会添加进去
+你可以直接把想添加的内容发在 [issues](https://github.com/SecYouth/all-about-security-jobs/issues) 里(想象成论坛的帖子), 我们会添加进去  
 或者Fork这个项目, 修改后再发起Pull Request来合并修改  
 QQ群中一些有用的小道消息也会加入到这里面 (目前是人工, 希望以后用bot来做)
 
