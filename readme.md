@@ -6,12 +6,13 @@
 * [**examination**](examination/) 笔试真题 (数量: 2)
 * [**information**](information/) 可靠的消息
 * [**hearsay**](hearsay/) 小道消息(不一定靠谱)
-* [**resource**](resource/) 资源
 * [**evaluation**](evaluation/) 前人的实习/工作经历和评价
 * [**procedure**](procedure/) 实际的招聘流程与官方流程中未写明的细节
-* [**jobs**](jobs/) 招聘和求职信息
 * [**misc**](misc/) 其他
+* [**resource.md**](resource.md) 资源 (数量: 1)
 * [**recommendation.md**](recommendation.md) 内推人或内推渠道, 包括厂商人员 (数量: 7)
+* [**tips.md**](tips.md) 杂七杂八的有益的各种建议和人生经验 (数量: 1)
+* [**jobs.md**](jobs.md) 招聘和求职信息
 
 __建议Watch本repo, 可以收到更新的邮件推送(点右上角的Watch)__
 
