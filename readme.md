@@ -2,9 +2,9 @@
 
 ## 目录
 
-* [**interview-experience**](interview-experience/) 面经 (数量: 2)
-* [**examination**](examination/) 笔试真题 (数量: 2)
-* [**information**](information/) 可靠的消息
+* [**interview-experience**](interview-experience/) 面经 (数量: 4+2)
+* [**examination**](examination/) 笔试真题 (数量: 71)
+* [**information**](information/) 可靠的消息 (数量: 2)
 * [**hearsay**](hearsay/) 小道消息(不一定靠谱)
 * [**evaluation**](evaluation/) 前人的实习/工作经历和评价
 * [**procedure**](procedure/) 实际的招聘流程与官方流程中未写明的细节
