@@ -7,7 +7,7 @@
 * [**information**](information/) 可靠的消息 (数量: 2)
 * [**hearsay**](hearsay/) 小道消息(不一定靠谱)
 * [**evaluation**](evaluation/) 前人的实习/工作经历和评价
-* [**procedure**](procedure/) 实际的招聘流程与官方流程中未写明的细节
+* [**procedure**](procedure/) 实际的招聘流程与官方流程中未写明的细节 (数量: 3)
 * [**misc**](misc/) 其他
 * [**resource.md**](resource.md) 资源 (数量: 1)
 * [**recommendation.md**](recommendation.md) 内推人或内推渠道, 包括厂商人员 (数量: 7)
