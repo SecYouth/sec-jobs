@@ -2,7 +2,7 @@
 
 ## 目录
 
-* [**interview-experience**](interview-experience/) 面经 (数量: 13+2)
+* [**interview-experience**](interview-experience/) 面经 (数量: 14+2)
 * [**examination**](examination/) 笔试真题 (数量: 71)
 * [**information**](information/) 可靠的消息 (数量: 2)
 * [**hearsay**](hearsay/) 小道消息(不一定靠谱)
@@ -31,5 +31,5 @@ SecYouth也开放加入.
 
 ## QQ群
 
-18届信息安全实习群  群号:306335642
+信息安全实习/秋招  群号:306335642
 
